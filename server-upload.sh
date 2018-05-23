@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 git pull
-git commit  -m "commit message"
+git commit -am "commit message"
 git push origin master
