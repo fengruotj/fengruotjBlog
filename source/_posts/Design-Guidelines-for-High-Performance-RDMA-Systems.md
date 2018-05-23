@@ -17,3 +17,4 @@ date: 2018-05-23 11:11:00
 ## Background
 ![upload successful](\blog\images\pasted-1.png)</br>
 图显示了RDMA Cluster硬件组件。其中NIC网卡连接的一个或则多个端口连接到PCIe控制器且连接到多核CPU的服务器上。PCIe恐控制器用来接受NIC网卡的PCIe请求到L3 cache中。在现代的Intel 服务器架构中，这个L3 Cache 提供PCIe 事件控制器。
+### PCI Express
