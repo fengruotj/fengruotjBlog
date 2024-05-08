@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://tjcug.github.io/
+url: https://fengruotj.github.io/
 root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,7 +78,7 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:Tjcug/blog.git
+  repository: git@github.com:fengruotj/blog.git
   branch: master
   
 # hexo admin
