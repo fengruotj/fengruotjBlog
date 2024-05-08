@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "acorn": "^8.11.3",
+    "canvas-nest.js": "^2.0.4",
     "chokidar": "^3.6.0",
     "hexo": "^7.2.0",
     "hexo-admin": "^2.3.0",
