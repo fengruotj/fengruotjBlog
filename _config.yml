@@ -7,7 +7,7 @@ title: Master.TJ 的个人博客
 subtitle: blog
 description: 此地专注技术！
 author: Master.TJ
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -66,6 +66,12 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+excerpt:
+  depth: 2
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
 
 # Search 搜索功能配置
 search:
